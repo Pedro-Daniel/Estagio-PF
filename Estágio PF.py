@@ -6,7 +6,7 @@ class Tree:
 		self.triplet = triplet
 		self.sons = sons
 
-"""Defnição de uma função recursiva para, ao mesmo tempo criar e buscar a árvore ternária de ternos pitagóricos."""
+"""Definição de uma função recursiva para, ao mesmo tempo criar e buscar a árvore ternária de ternos pitagóricos."""
 def search(branch, deepness):
 	if deepness == 0:
 		if check(branch):
