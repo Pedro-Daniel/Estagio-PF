@@ -1,4 +1,4 @@
-# Resolução do problema 9 do Projeto Euler em Python. Disponível em: https://projecteuler.net/problem=9
+# Resolução do problema 9 do Projeto Euler em Python disponível em: https://projecteuler.net/problem=9
 
 """Definição de uma classe para nós de uma árvore ternária para analisar todos os ternos pitagóricos possíveis recursivamente."""
 class Tree:
